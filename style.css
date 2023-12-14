@@ -1,3 +1,9 @@
+.wrapper{
+  background-color: rgb(235, 235, 243);
+  border: solid black 2.5px;
+  padding: 2em;
+}
+
 ul{
   list-style-type: none;
   float: right;
@@ -8,6 +14,7 @@ li{
   margin-right: 10px;
   text-decoration-line:none;
 }
+
 h1{
   text-align: center;
 }
