@@ -2,19 +2,14 @@
   background-color: rgb(235, 235, 243);
   border: solid black 2.5px;
   padding: 2em;
-}
+  margin: 75px;}
 
-ul{
-  list-style-type: none;
-  float: right;
-}
-li{
-  list-style-type: none;
+ul li{
+  
+  text-decoration: none;
   display: inline-block;
-  margin-right: 10px;
-  text-decoration-line:none;
+  margin-right: 20px;
 }
-
 h1{
   text-align: center;
 }
