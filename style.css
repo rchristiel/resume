@@ -3,6 +3,7 @@
   border: solid black 2.5px;
   padding: 2em;
   margin: 75px;}
+  margin-top:
 
 ul li{
   
@@ -22,4 +23,7 @@ h1{
 }
 .lftFloat1{
   float:right;
+}
+.rgtShft{
+  margin-right:25px;
 }
