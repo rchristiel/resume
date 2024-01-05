@@ -21,8 +21,8 @@ h1{
 .header{
   text-align: center;
 }
-.lftFloat1{
-  float:right;
+.mntYr{
+  float:left;
 }
 .rgtShft{
   margin-right:25px;
