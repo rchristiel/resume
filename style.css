@@ -2,14 +2,39 @@
   background-color: rgb(235, 235, 243);
   border: solid black 2.5px;
   padding: 2em;
-  margin: 75px;}
-
-ul li{
-  
-  text-decoration: none;
-  display: inline-block;
+  margin: 75px;
+}
+.logo{
+  margin: 0px, 7px;
+}
+nav{
+  width: 90%;
+  color: antiquewhite;
+}
+ul{
+  list-style-type: none;
   margin-right: 20px;
 }
+
+li{
+  display: inline;
+  width: 80%;
+
+}
+
+
+li a{
+  background-color: rgb(222, 230, 230);
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li a:hover{
+  background-color: chocolate;
+  color: gray;
+}
+
+
 h1{
   text-align: center;
 }
